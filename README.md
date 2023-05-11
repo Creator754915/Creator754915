@@ -5,7 +5,7 @@
 <a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's Creator754915 👋</i></b></h2>
+<h2><b><i>Hello , it's Creator754915 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
@@ -27,4 +27,4 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/Creator754915"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Creator754915&color=blueviolet&style=flat-square"></a>
   
- <a href="https://www.youtube.com/@majjor_minecraft"><img align="left" title="Youtube" alt="Youtube" width="30px" src="assets/instagram.png" /></a>
+ <a href="https://www.youtube.com/@majjor_minecraft"><img align="left" title="Youtube" alt="Youtube" width="30px" src="assets/logoyt.png" /></a>
