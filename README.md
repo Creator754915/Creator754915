@@ -10,7 +10,6 @@
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Resident of France</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
 <li> 😪 <i>Love Code</i></li>
 <li> ❤️ <i>Born With Brothers</i></li>
 <li> 🐍 <i>Trying to learn PHP & SQLI</i></li>
