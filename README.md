@@ -14,11 +14,11 @@
 <li> ❤️ <i>Born With Brothers</i></li>
 <li> 🐍 <i>Trying to learn PHP & SQLI</i></li>
 
-<h3><b><i>☠ Works :</i></b></h3>
+<h3><b><i>📖 Works :</i></b></h3>
 <li> <a href="https://github.com/Creator754915/Hack-Tools">Hack-Tools - It's a hacl tools program works with shell and python</a>
+<li> <a href="https://github.com/Creator754915/Zombie-Shooter">Zombie-Shooter - It's a game create with Ursina and the goal: KILLS ZOMBIES</a>
 <li> <a href="https://github.com/Creator754915/Bot-Minecraft-JS">Bot Minecraft - A bot Minecraft works with JavaScript and Node JS</a>
-<li> <a href="https://github.com/Creator754915/local-chat-js">Local Chat - It's a local chat working with JavaScriot and Socket.io and Node</a>
-<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
+<li> <a href="https://github.com/Creator754915/local-chat-js">Local Chat - It's a local chat working with JavaScript and Socket.io and Node</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Creator754915"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Creator754915&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
